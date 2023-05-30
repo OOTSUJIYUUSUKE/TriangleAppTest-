@@ -1,1 +1,1 @@
-# TriangleAppTest-
+# TriangleAppのテストケースを作成しました。
